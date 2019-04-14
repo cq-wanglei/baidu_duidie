@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f56fbe44-99ac-4e38-9bcf-93b1bbf7f4ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WWW.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webs/127.0.0.1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/htdocs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Common/Common/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Common/Conf/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Common/Conf/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Common/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Common/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Common/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Conf/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Conf/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Controller/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/Model/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/ci.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/err404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/right.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/robots.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/Index/siteadd.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/View/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/5a832c8b4df0ea6e5c9541fa10bd5f2c.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/6419fa50d2d6f26abede6c4f84ad6765.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/72653c5b98bacce026832b51aa92934a.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/763b4b70bd4570bb5813afc03847d659.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/9c1260472133969d115a86e18c2174b2.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Cache/Home/bba32cd1215b60bf8857bc3f7c46aa93.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Data/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Common/19_04_03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Common/19_04_04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/1554347392-19_04_04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/1554368551-19_04_04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/19_04_03.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/19_04_04.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/19_04_06.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/19_04_07.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/19_04_08.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/Home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Logs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/Temp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Runtime/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/css/layout" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/css/page" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/images/btn-bg2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/images/green_skin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/images/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/images/newdigg-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/images/pic1_mubanzhijia_com.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Public/js/dedeajax2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Common/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Conf/convention.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Conf/debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Lang/en-us.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Lang/pt-br.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Lang/zh-cn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Lang/zh-tw.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/AgentCheckBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/BorisBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/BrowserCheckBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/BuildLiteBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/CheckActionRouteBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/CheckLangBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ChromeShowPageTraceBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ContentReplaceBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/CronRunBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/FireShowPageTraceBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ParseTemplateBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ReadHtmlCacheBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/RobotCheckBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ShowPageTraceBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/ShowRuntimeBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/TokenBuildBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/UpgradeNoticeBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Behavior/WriteHtmlCacheBehavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Net/Http.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Net/IpLocation.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/ArrayList.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/CodeSwitch.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/Date.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/Rbac.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/Stack.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Org/Util/String.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/App.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Auth.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Behavior.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Build.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Apachenote.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Apc.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Db.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Eaccelerator.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/File.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcache.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcached.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Memcachesae.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Redis.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Shmop.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Sqlite.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Wincache.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Cache/Driver/Xcache.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/HproseController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/JsonRpcController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/RestController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/RpcController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Controller/YarController.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt/Driver/Base64.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt/Driver/Crypt.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt/Driver/Des.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt/Driver/Think.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Crypt/Driver/Xxtea.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Firebird.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Mongo.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Mysql.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Oracle.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Pgsql.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Sqlite.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Driver/Sqlsrv.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Db/Lite.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Dispatcher.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Exception.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Hook.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Image.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Image/Driver/GIF.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Image/Driver/Gd.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Image/Driver/Imagick.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log/Driver/File.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Log/Driver/Sae.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model/AdvModel.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model/MergeModel.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model/MongoModel.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model/RelationModel.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Model/ViewModel.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Page.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Route.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Session/Driver/Db.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Session/Driver/Memcache.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Session/Driver/Mysqli.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage/Driver/File.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Storage/Driver/Sae.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Ease.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Lite.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Mobile.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Smart.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/Driver/Smarty.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib/Cx.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Template/TagLib/Html.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Think.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/bcs.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/mimetypes.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Bcs/requestcore.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Ftp.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Local.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Qiniu/QiniuStorage.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Sae.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Upload/Driver/Upyun.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/bgs/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/1.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/2.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/3.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/4.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/5.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/Verify/ttfs/6.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Think/View.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/Boris.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/CLIOptionsHandler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/ColoredInspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/Config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/DumpInspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/EvalWorker.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/ExportInspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/Inspector.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/ReadlineClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Boris/ShallowParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/EaseTemplate/template.core.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/EaseTemplate/template.ease.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseClassManager.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseCommon.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseFormatter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseHttpClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseHttpServer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseIO.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseIOStream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseReader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseTags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Hprose/HproseWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplatedebugger.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/SmartTemplate/class.smarttemplateparser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/Smarty.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/SmartyBC.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/debug.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/block.textformat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.counter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.cycle.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.fetch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_checkboxes.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_image.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_options.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_radios.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_date.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_select_time.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.html_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.mailto.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/function.math.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.capitalize.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.date_format.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.debug_print_var.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.escape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.regex_replace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.replace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.spacify.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifier.truncate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.cat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_characters.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_paragraphs.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_sentences.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.count_words.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.default.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.escape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.from_charset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.indent.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.lower.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.noprint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.string_format.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.strip_tags.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.to_charset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.unescape.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.upper.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/modifiercompiler.wordwrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/outputfilter.trimwhitespace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.escape_special_chars.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.literal_compiler_param.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.make_timestamp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_str_replace.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_unicode.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/shared.mb_wordwrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/plugins/variablefilter.htmlspecialchars.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_cacheresource_keyvaluestore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_config_source.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_cacheresource_file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_append.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_assign.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_block.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_break.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_call.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_capture.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_config_load.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_continue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_eval.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_extends.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_for.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_foreach.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_if.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_include_php.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_insert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_ldelim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_nocache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_block_plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_function_plugin.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_modifier.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_block_function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_object_function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_print_expression.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_block.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_registered_function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_private_special_variable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_rdelim.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_section.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_setfilter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compile_while.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_compilebase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_config_file_compiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfilelexer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_configfileparser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_data.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_debug.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_filter_handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_function_call_handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_get_include_path.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_nocache_insert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_parsetree.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_eval.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_extends.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_php.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_registered.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_stream.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_resource_string.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_smartytemplatecompiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatebase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatecompilerbase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templatelexer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_templateparser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_utility.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_internal_write_file.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_custom.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_recompiled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_resource_uncompiled.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/Smarty/sysplugins/smarty_security.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/class.compiler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/class.config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/class.template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_block.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_custom_function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.compile_if.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.generate_compiler_debug_output.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.parse_is_expr.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/compile.section_start.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/debug.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/template.build_dir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/template.config_loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/template.destroy_dir.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/template.fetch_compile_include.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/TemplateLite/internal/template.generate_debug_output.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCClient.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/jsonRPC/jsonRPCServer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/bigint.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/compat.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/1024.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/128.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/1536.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/160.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/192.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/2048.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/256.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/3072.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/4096.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/512.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/768.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/dhparams/96.dhp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/CREDITS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/INSTALL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.m4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/config.w32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.dsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/php_xxtea.vcproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/test/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/pecl/xxtea/xxtea.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/phprpc_client.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/phprpc_date.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/phprpc_server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/phpRPC/xxtea.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/COPYING" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/Spyc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/examples/yaml-dump.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/examples/yaml-load.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/php4/5to4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/php4/spyc.php4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/php4/test.php4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/spyc.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/DumpTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/IndentTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/ParseTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/RoundTripTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/comments.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/failing1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/indent_1.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Library/Vendor/spyc/tests/quotes.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Api/App.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Api/Controller.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Api/Dispatcher.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Api/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/App.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/Controller.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/Dispatcher.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/Model.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/View.class.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/convention.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Lite/functions.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/Sae/convention.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/common.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/lite.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Mode/sae.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/ThinkPHP.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Tpl/dispatch_jump.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Tpl/page_trace.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/Tpl/think_exception.tpl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ThinkPHP/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/zhanqun20190414220317.sql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+              <folding>
+                <element signature="n#record#0;n#!!top" />
+                <element signature="n#checkrobot#0;n#!!top" />
+                <element signature="n#dstrpos#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/webs/127.0.0.1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#3;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#3;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#23176#23183#0" expanded="true" />
+                <element signature="e#23185#23192#0" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#24165#24172#0" expanded="true" />
+                <element signature="e#24177#24184#0" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#27609#27615#0" expanded="true" />
+                <element signature="e#27615#27621#0" expanded="true" />
+                <element signature="e#27621#27627#0" expanded="true" />
+                <element signature="e#27627#27633#0" expanded="true" />
+                <element signature="e#27633#27639#0" expanded="true" />
+                <element signature="e#27639#27645#0" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>images/</find>
+      <find>substr=0,15</find>
+      <find>substr=0,20</find>
+      <find>substr=0,30</find>
+      <find>substr</find>
+      <find>mb_mb_str</find>
+      <find>mb_str</find>
+      <find>0,50</find>
+      <find>0,30</find>
+      <find>&lt;?php echo</find>
+      <find>&lt;?php echo mb_substr($z1[0]['neirong'], 0,15,'utf-8'); ?&gt;</find>
+      <find>&lt;?php echo str_replace('&lt;p&gt;,''.mb_substr($t24[$i]['neirong'], 0,15,'utf-8')); ?&gt;</find>
+      <find>&lt;?php echo str_replace('&lt;p&gt;,'',mb_substr($t24[$i]['neirong'], 0,15,'utf-8')); ?&gt;</find>
+      <find>&lt;?php echo mb_substr($z9[0]['neirong'], 0,15,'utf-8'); ?&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/templates/images/</replace>
+      <replace>substr=0,20</replace>
+      <replace>substr=0,30</replace>
+      <replace>substr=0,50</replace>
+      <replace>mb_str</replace>
+      <replace>mb_substr</replace>
+      <replace>0,30</replace>
+      <replace>0,30,'utf-8'</replace>
+      <replace>0,15</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;,''.mb_substr($t24[$i]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;,'',mb_substr($t24[$i]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($t24[$i]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z3[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z4[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z5[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z6[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z7[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z8[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+      <replace>&lt;?php echo str_replace('&lt;p&gt;','',mb_substr($z9[0]['neirong'], 0,15,'utf-8')); ?&gt;</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="8e5dfa4d-c026-4530-ace1-6151142962c2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Application/Home/Common/pinyin.php" />
+        <option value="$PROJECT_DIR$/Application/Home/Common/function.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/index/index.html" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/fanyi.php" />
+        <option value="$PROJECT_DIR$/caiji.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/templates/js/1.js" />
+        <option value="$PROJECT_DIR$/templates/conf.php" />
+        <option value="$PROJECT_DIR$/templates/functions.php" />
+        <option value="$PROJECT_DIR$/conf.php" />
+        <option value="$PROJECT_DIR$/templates/css/style.css" />
+        <option value="$PROJECT_DIR$/templates/top.html" />
+        <option value="$PROJECT_DIR$/templates/foot.html" />
+        <option value="$PROJECT_DIR$/templates/list.html" />
+        <option value="$PROJECT_DIR$/templates/page.html" />
+        <option value="$PROJECT_DIR$/templates/header.html" />
+        <option value="$PROJECT_DIR$/randimg.php" />
+        <option value="$PROJECT_DIR$/ci.php" />
+        <option value="$PROJECT_DIR$/db.php" />
+        <option value="$PROJECT_DIR$/templates/index.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/ci.html" />
+        <option value="$PROJECT_DIR$/Public/css/style.css" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/right.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/header.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/siteadd.html" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/err404.html" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/index.html" />
+        <option value="$PROJECT_DIR$/Application/Home/Common/functions.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/lists.html" />
+        <option value="$PROJECT_DIR$/robots.txt" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/robots.html" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/Application/Home/Conf/config.php" />
+        <option value="$PROJECT_DIR$/record.php" />
+        <option value="$PROJECT_DIR$/Public/js/dedeajax2.js" />
+        <option value="$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+        <option value="$PROJECT_DIR$/Application/Home/View/Index/page.html" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/404.php" />
+        <option value="$PROJECT_DIR$/webs/127.0.0.1.html" />
+        <option value="$PROJECT_DIR$/css/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/css/nav.css" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="0.0.0.0" id="f70e7388-f835-4f36-a1d2-16923f7307c1" name="xs" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="69" />
+    <option name="y" value="147" />
+    <option name="width" value="1518" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WWW" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WWW" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" singleton="false" server_name="xs">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f56fbe44-99ac-4e38-9bcf-93b1bbf7f4ef" name="Default Changelist" comment="" />
+      <created>1552045708645</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552045708645</updated>
+      <workItem from="1552045709858" duration="6893000" />
+      <workItem from="1553615260200" duration="16298000" />
+      <workItem from="1553944186626" duration="568000" />
+      <workItem from="1553952729989" duration="302000" />
+      <workItem from="1554120022237" duration="2822000" />
+      <workItem from="1554211674087" duration="5713000" />
+      <workItem from="1554254218639" duration="9208000" />
+      <workItem from="1554300028463" duration="4062000" />
+      <workItem from="1554340401389" duration="18666000" />
+      <workItem from="1554365579275" duration="4651000" />
+      <workItem from="1554374074210" duration="7718000" />
+      <workItem from="1554531325861" duration="3101000" />
+      <workItem from="1554556951070" duration="1632000" />
+      <workItem from="1554561012033" duration="1655000" />
+      <workItem from="1554636314595" duration="1177000" />
+      <workItem from="1554692466401" duration="2149000" />
+      <workItem from="1554700593958" duration="10652000" />
+      <workItem from="1554714621552" duration="162000" />
+      <workItem from="1554728224513" duration="3746000" />
+      <workItem from="1554780522354" duration="575000" />
+      <workItem from="1554781296489" duration="18000" />
+      <workItem from="1554781818653" duration="242000" />
+      <workItem from="1554782369378" duration="167000" />
+      <workItem from="1554801174713" duration="4000" />
+      <workItem from="1555250050932" duration="2598000" />
+      <workItem from="1555392508733" duration="2567000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107346000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22707888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3253796" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32998455" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21215352" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3261105" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32885906" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32998455" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/static/456/ggad2_728x90.js" />
+    <entry file="file://$PROJECT_DIR$/static/123/apple-icon.png" />
+    <entry file="file://$PROJECT_DIR$/static/123/favicon.png" />
+    <entry file="file://$PROJECT_DIR$/caiji.php" />
+    <entry file="file://$PROJECT_DIR$/test.php" />
+    <entry file="file://$PROJECT_DIR$/fanyi.php" />
+    <entry file="file://$PROJECT_DIR$/templates/js/dedeajax2.js" />
+    <entry file="file://$PROJECT_DIR$/templates/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/templates/list.html" />
+    <entry file="file://$PROJECT_DIR$/templates/page.html" />
+    <entry file="file://$PROJECT_DIR$/templates/footer.html" />
+    <entry file="file://$PROJECT_DIR$/templates/header.html" />
+    <entry file="file://$PROJECT_DIR$/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/db.php" />
+    <entry file="file://$PROJECT_DIR$/functions.php" />
+    <entry file="file://$PROJECT_DIR$/conf.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/footer.html" />
+    <entry file="file://$PROJECT_DIR$/randimg.php" />
+    <entry file="file://$PROJECT_DIR$/ci.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/right.html" />
+    <entry file="file://$PROJECT_DIR$/Application/index.html" />
+    <entry file="file://$PROJECT_DIR$/Public/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Application/Common/Conf/config.php" />
+    <entry file="file://$PROJECT_DIR$/sitemap.xml" />
+    <entry file="file://$PROJECT_DIR$/sitemap.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/header.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/siteadd.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/err404.html" />
+    <entry file="file://$PROJECT_DIR$/search.php" />
+    <entry file="file://$PROJECT_DIR$/login.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/index.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Home/2a94b8bda04ff446dcedd42276fc99ee.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Runtime/Cache/Home/72653c5b98bacce026832b51aa92934a.php" />
+    <entry file="file://$PROJECT_DIR$/robots.txt" />
+    <entry file="file://$PROJECT_DIR$/record.php" />
+    <entry file="file://$PROJECT_DIR$/Public/js/dedeajax2.js" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/Controller/IndexController.class.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/robots.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/ci.html" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/Conf/config.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/lists.html" />
+    <entry file="file://$PROJECT_DIR$/.htaccess" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/Common/functions.php" />
+    <entry file="file://$PROJECT_DIR$/Application/Home/View/Index/page.html" />
+    <entry file="file://$PROJECT_DIR$/bot.txt" />
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="79" column="8" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="8" />
+          <folding>
+            <element signature="n#record#0;n#!!top" />
+            <element signature="n#checkrobot#0;n#!!top" />
+            <element signature="n#dstrpos#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="122375" selection-start-line="4" selection-start-column="122375" selection-end-line="4" selection-end-column="122375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="1279" column="1" selection-start-line="1279" selection-start-column="1" selection-end-line="1279" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="834">
+          <caret line="102" column="1" selection-start-line="102" selection-start-column="1" selection-end-line="102" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webs/127.0.0.1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#form#0;n#div#1;n#div#3;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#form#0;n#div#1;n#div#3;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#3;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#4;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#li#5;n#ul#0;n#div#1;n#header#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#23176#23183#0" expanded="true" />
+            <element signature="e#23185#23192#0" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#24165#24172#0" expanded="true" />
+            <element signature="e#24177#24184#0" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#section#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#27609#27615#0" expanded="true" />
+            <element signature="e#27615#27621#0" expanded="true" />
+            <element signature="e#27621#27627#0" expanded="true" />
+            <element signature="e#27627#27633#0" expanded="true" />
+            <element signature="e#27633#27639#0" expanded="true" />
+            <element signature="e#27639#27645#0" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
